@@ -2,7 +2,8 @@
     
     절차적 프로그래밍은 - 하나의 데이터를 가공하는게 목적
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2d1db02-6c94-4df3-a6fc-b1f00dd9d143/Untitled.png)
+![aaaaaa](https://user-images.githubusercontent.com/83396157/151682869-470996bd-30e9-4184-86ea-f0cb28914a0b.png)
+
     
     - 절차지향적 프로그래밍은 ‘돈’이라는 자료가 어떻게 가공이 되고 어떻게 판별이 되어 프로그램이 실행되는지가 중요
     - 객체지향적 프로그래밍은 각각의 고유의 기능 (절차)을 가지게 되고 이를 통해서 개체들간의 상호작용으로 결과를 도출하는것이 중요하다.
